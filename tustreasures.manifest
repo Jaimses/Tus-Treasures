@@ -1,0 +1,374 @@
+ManifestFileVersion: 0
+CRC: 987148513
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06e4aea0d1db5896b244077266a0c7d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1d893e79998391e88d196f3ac9b5603f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 511953537, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: 1058728248, guid: 421ae4f72b4255642983b93487241616, type: 3}
+- Class: 114
+  Script: {fileID: 544464033, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: 1826273678, guid: 421ae4f72b4255642983b93487241616, type: 3}
+- Class: 114
+  Script: {fileID: -1269266212, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -686398770, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -625819341, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -2084902116, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: 1913379070, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -976611119, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -214231816, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: 302093662, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1015385941, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: 1546088854, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1971764023, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1039079324, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1954460148, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1306655069, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: 832402483, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1142304182, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1009901399, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: 1256608078, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1226414609, guid: 421ae4f72b4255642983b93487241616, type: 3}
+- Class: 114
+  Script: {fileID: -1638229193, guid: 421ae4f72b4255642983b93487241616, type: 3}
+- Class: 114
+  Script: {fileID: 568847093, guid: 421ae4f72b4255642983b93487241616, type: 3}
+- Class: 114
+  Script: {fileID: 1638799208, guid: 421ae4f72b4255642983b93487241616, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/sprites/IconSheet_8.png
+- Assets/Resources/Loot Table 3.asset
+- Assets/Resources/sprites/IconSheet_187.png
+- Assets/Resources/WIP/Nightmare1001Spikes.png
+- Assets/Resources/sprites/IconSheet_169.png
+- Assets/Resources/sprites/IconSheet_59.png
+- Assets/Resources/sprites/IconSheet_9.png
+- Assets/Resources/sprites/IconSheet_209.png
+- Assets/Resources/Done/ApothicPendant.png
+- Assets/Scripts/TickerL2.asset
+- Assets/Resources/sprites/IconSheet_94.png
+- Assets/Resources/Loot Table.asset
+- Assets/Resources/sprites/IconSheet_190.png
+- Assets/Resources/sprites/IconSheet_148.png
+- Assets/Resources/sprites/IconSheet_207.png
+- Assets/Resources/sprites/IconSheet_84.png
+- Assets/Resources/sprites/IconSheet_203.png
+- Assets/Resources/sprites/IconSheet_6.png
+- Assets/Resources/sprites/IconSheet_105.png
+- Assets/Resources/sprites/IconSheet_58.png
+- Assets/Resources/Done/NightmareVoracious.png
+- Assets/Resources/sprites/IconSheet_81.png
+- Assets/Resources/sprites/IconSheet_125.png
+- Assets/Resources/sprites/IconSheet_162.png
+- Assets/Resources/sprites/IconSheet_30.png
+- Assets/Resources/sprites/IconSheet_110.png
+- Assets/Resources/sprites/IconSheet_5.png
+- Assets/Scripts/TickerL1.asset
+- Assets/Resources/sprites/IconSheet_31.png
+- Assets/Resources/sprites/IconSheet_149.png
+- Assets/Scripts/TickerL0.asset
+- Assets/Resources/sprites/IconSheet_138.png
+- Assets/Resources/Done/impendingdeath.asset
+- Assets/Resources/sprites/IconSheet_128.png
+- Assets/Resources/sprites/GrapplingHook.png
+- Assets/Resources/sprites/IconSheet_21.png
+- Assets/Resources/sprites/IconSheet_73.png
+- Assets/Resources/sprites/IconSheet_109.png
+- Assets/Resources/sprites/IconSheet_48.png
+- Assets/Resources/sprites/IconSheet_119.png
+- Assets/Resources/sprites/IconSheet_198.png
+- Assets/Resources/sprites/IconSheet_1.png
+- Assets/Resources/sprites/IconSheet_32.png
+- Assets/Resources/sprites/IconSheet_75.png
+- Assets/Resources/sprites/IconSheet_113.png
+- Assets/Resources/sprites/IconSheet_63.png
+- Assets/Resources/sprites/IconSheet_43.png
+- Assets/Resources/sprites/IconSheet_29.png
+- Assets/Resources/sprites/IconSheet_10.png
+- Assets/Resources/sprites/IconSheet_80.png
+- Assets/Resources/sprites/IconSheet_152.png
+- Assets/Resources/sprites/Potion04a.png
+- Assets/Resources/sprites/IconSheet_195.png
+- Assets/Resources/sprites/IconSheet_200.png
+- Assets/Resources/WIP/FamiliarStuff/Familiar Skin.asset
+- Assets/Resources/sprites/IconSheet_181.png
+- Assets/Resources/sprites/IconSheet_41.png
+- Assets/Resources/sprites/IconSheet_64.png
+- Assets/Resources/sprites/IconSheet_13.png
+- Assets/Resources/sprites/IconSheet_159.png
+- Assets/Resources/WIP/SteelFlesh.png
+- Assets/Resources/sprites/IconSheet_205.png
+- Assets/Resources/sprites/IconSheet_204.png
+- Assets/Resources/sprites/IconSheet_62.png
+- Assets/Resources/sprites/IconSheet_156.png
+- Assets/Resources/sprites/IconSheet_52.png
+- Assets/Resources/WIP/FamiliarStuff/Despawns.asset
+- Assets/Resources/sprites/IconSheet_72.png
+- Assets/Resources/sprites/IconSheet_56.png
+- Assets/Resources/Done/voracious.asset
+- Assets/Resources/sprites/IconSheet_40.png
+- Assets/Resources/sprites/IconSheet_67.png
+- Assets/Resources/Done/impendingdoompickup.asset
+- Assets/Resources/sprites/IconSheet_102.png
+- Assets/Resources/sprites/IconSheet_142.png
+- Assets/Resources/sprites/IconSheet_184.png
+- Assets/Resources/sprites/IconSheet_140.png
+- Assets/Resources/sprites/IconSheet_123.png
+- Assets/Resources/sprites/IconSheet_161.png
+- Assets/Resources/sprites/StarMarkedBuckler.png
+- Assets/Resources/sprites/IconSheet_137.png
+- Assets/Resources/sprites/IconSheet_197.png
+- Assets/Resources/sprites/GlennHex.png
+- Assets/Resources/sprites/IconSheet_37.png
+- Assets/Resources/sprites/IconSheet_151.png
+- Assets/Scripts/TickerPickUp.asset
+- Assets/Resources/sprites/IconSheet_2.png
+- Assets/Resources/WIP/Hex Item.asset
+- Assets/Resources/Done/NightmareIndestructable.png
+- Assets/Resources/sprites/IconSheet_79.png
+- Assets/Resources/sprites/IconSheet_158.png
+- Assets/Scripts/TickerStatus.prefab
+- Assets/Resources/WIP/FamiliarStuff/Familiar.asset
+- Assets/Resources/sprites/IconSheet_55.png
+- Assets/Resources/sprites/IconSheet_188.png
+- Assets/Resources/sprites/IconSheet_99.png
+- Assets/Resources/sprites/IconSheet_71.png
+- Assets/Scripts/TickerAnimation.asset
+- Assets/Resources/sprites/IconSheet_144.png
+- Assets/Resources/sprites/IconSheet_33.png
+- Assets/Resources/sprites/IconSheet_150.png
+- Assets/Resources/Done/impendingdoombehaviour.asset
+- Assets/Resources/Loot Table 1.asset
+- Assets/Resources/sprites/IconSheet_180.png
+- Assets/Resources/sprites/IconSheet_69.png
+- Assets/Resources/sprites/IconSheet_136.png
+- Assets/Resources/sprites/IconSheet_167.png
+- Assets/Resources/sprites/IconSheet_191.png
+- Assets/Resources/sprites/IconSheet_133.png
+- Assets/Resources/sprites/IconSheet_50.png
+- Assets/Resources/WIP/Hex Picked Up.asset
+- Assets/Scripts/TickerDespawn.asset
+- Assets/Resources/sprites/IconSheet_57.png
+- Assets/Resources/sprites/IconSheet_183.png
+- Assets/Resources/sprites/IconSheet_134.png
+- Assets/Resources/sprites/IconSheet_165.png
+- Assets/Resources/sprites/IconSheet_85.png
+- Assets/Resources/sprites/IconSheet_145.png
+- Assets/Resources/sprites/IconSheet_27.png
+- Assets/Resources/sprites/IconSheet_7.png
+- Assets/Resources/sprites/IconSheet_146.png
+- Assets/Resources/Done/voraciousstat.prefab
+- Assets/Resources/WIP/Status Effect.prefab
+- Assets/Resources/sprites/IconSheet_39.png
+- Assets/Resources/sprites/IconSheet_78.png
+- Assets/Resources/sprites/IconSheet_104.png
+- Assets/Resources/sprites/IconSheet_28.png
+- Assets/Resources/sprites/IconSheet_189.png
+- Assets/Resources/sprites/IconSheet_153.png
+- Assets/Resources/sprites/IconSheet_193.png
+- Assets/Resources/WIP/FamiliarStuff/Familiar Entity.prefab
+- Assets/Resources/WIP/FamiliarStuff/Animation Data.asset
+- Assets/Resources/sprites/IconSheet_60.png
+- Assets/Resources/sprites/IconSheet_89.png
+- Assets/Resources/sprites/FireAxe.png
+- Assets/Resources/sprites/IconSheet_185.png
+- Assets/Resources/sprites/IconSheet_118.png
+- Assets/Resources/sprites/IconSheet_120.png
+- Assets/Resources/WIP/steelfleshbehaviour.asset
+- Assets/Resources/sprites/IconSheet_139.png
+- Assets/Resources/sprites/IconSheet_127.png
+- Assets/Resources/sprites/IconSheet_131.png
+- Assets/Resources/sprites/IconSheet_107.png
+- Assets/Resources/sprites/IconSheet_23.png
+- Assets/Resources/sprites/IconSheet_17.png
+- Assets/Resources/WIP/steelfleshstat.prefab
+- Assets/Resources/WIP/FamiliarStuff/Level 1.asset
+- Assets/Resources/sprites/IconSheet_174.png
+- Assets/Resources/sprites/Eye01.png
+- Assets/Resources/sprites/IconSheet_95.png
+- Assets/Resources/Done/impendingdoomstatus.prefab
+- Assets/Resources/sprites/IconSheet_114.png
+- Assets/Resources/sprites/IconSheet_155.png
+- Assets/Resources/sprites/IconSheet_83.png
+- Assets/Resources/sprites/IconSheet_116.png
+- Assets/Resources/sprites/IconSheet_176.png
+- Assets/Resources/sprites/IconSheet_77.png
+- Assets/Resources/sprites/Bomb07.png
+- Assets/Resources/WIP/steelflesh.asset
+- Assets/Resources/sprites/IconSheet_51.png
+- Assets/Resources/sprites/IconSheet_18.png
+- Assets/Resources/sprites/IconSheet_199.png
+- Assets/Resources/sprites/IconSheet_20.png
+- Assets/Resources/sprites/IconSheet_34.png
+- Assets/Resources/sprites/ambrosiaB.png
+- Assets/Resources/sprites/IconSheet_25.png
+- Assets/Resources/WIP/Hex Effect.asset
+- Assets/Resources/DefaultMissingSprite.png
+- Assets/Resources/sprites/IconSheet_170.png
+- Assets/Resources/sprites/IconSheet_15.png
+- Assets/Resources/sprites/IconSheet_35.png
+- Assets/Resources/Done/toxin.png
+- Assets/Resources/sprites/IconSheet_93.png
+- Assets/Resources/sprites/IconSheet_3.png
+- Assets/Resources/WIP/steelfleshpickup.asset
+- Assets/Resources/sprites/IconSheet_175.png
+- Assets/Resources/sprites/Luck.png
+- Assets/Resources/sprites/IconSheet_132.png
+- Assets/Resources/sprites/IconSheet_26.png
+- Assets/Resources/WIP/FamiliarStuff/Level 2.asset
+- Assets/Resources/Done/toxinbehaviour.asset
+- Assets/Resources/sprites/IconSheet_103.png
+- Assets/Resources/sprites/IconSheet_66.png
+- Assets/Resources/sprites/IconSheet_122.png
+- Assets/Resources/sprites/Hourglass01.png
+- Assets/Resources/sprites/IconSheet_208.png
+- Assets/Resources/WIP/FamiliarStuff/Gain XP.asset
+- Assets/Resources/sprites/IconSheet_147.png
+- Assets/Resources/Done/voraciousbehaviour.asset
+- Assets/Resources/sprites/IconSheet_112.png
+- Assets/Resources/sprites/IconSheet_173.png
+- Assets/Resources/sprites/IconSheet_82.png
+- Assets/Resources/WIP/FamiliarStuff/Picked Up.asset
+- Assets/Resources/sprites/IconSheet_45.png
+- Assets/Resources/sprites/IconSheet_92.png
+- Assets/Resources/Done/apothpickup.asset
+- Assets/Resources/sprites/Drought.png
+- Assets/Resources/sprites/Potion05a.png
+- Assets/Resources/sprites/IconSheet_108.png
+- Assets/Resources/sprites/IconSheet_129.png
+- Assets/Resources/sprites/IconSheet_88.png
+- Assets/Resources/Done/impendingdeathstatus.prefab
+- Assets/Resources/sprites/IconSheet_90.png
+- Assets/Resources/sprites/IconSheet_135.png
+- Assets/Resources/sprites/IconSheet_163.png
+- Assets/Scripts/TickerSkin.asset
+- Assets/Resources/Done/impendingdeathpickup.asset
+- Assets/Resources/sprites/IconSheet_179.png
+- Assets/Resources/Done/apothbehaviour.asset
+- Assets/Resources/Done/toxinpickup.asset
+- Assets/Resources/sprites/IconSheet_19.png
+- Assets/Resources/sprites/IconSheet_106.png
+- Assets/Resources/Done/toxin.asset
+- Assets/Resources/sprites/IconSheet_42.png
+- Assets/Resources/sprites/IconSheet_16.png
+- Assets/Resources/sprites/IconSheet_115.png
+- Assets/Resources/sprites/IconSheet_61.png
+- Assets/Resources/sprites/Potion8b.png
+- Assets/Resources/Done/voraciouspickup.asset
+- Assets/Resources/Done/toxin.prefab
+- Assets/Resources/sprites/IconSheet_171.png
+- Assets/Resources/sprites/IconSheet_70.png
+- Assets/Resources/sprites/IconSheet_36.png
+- Assets/Resources/sprites/IconSheet_98.png
+- Assets/Scripts/Ticker.asset
+- Assets/Resources/sprites/IconSheet_126.png
+- Assets/Resources/WIP/FamiliarStuff/Level 0.asset
+- Assets/Resources/sprites/IconSheet_160.png
+- Assets/Resources/sprites/IconSheet_202.png
+- Assets/Resources/sprites/IconSheet_49.png
+- Assets/Resources/sprites/IconSheet_130.png
+- Assets/Resources/sprites/IconSheet_196.png
+- Assets/com.overmine.editor/Editor/Resources/References/Decorators/Potion Decorator.prefab
+- Assets/Resources/sprites/IconSheet_14.png
+- Assets/Resources/sprites/IconSheet_164.png
+- Assets/New Animation.anim
+- Assets/Resources/sprites/IconSheet_143.png
+- Assets/Scripts/Bomb06.png
+- Assets/Resources/sprites/IconSheet_154.png
+- Assets/Resources/sprites/IconSheet_91.png
+- Assets/Resources/Done/apothstatus.prefab
+- Assets/Resources/Done/Apothic.asset
+- Assets/Resources/sprites/IconSheet_38.png
+- Assets/Resources/sprites/IconSheet_22.png
+- Assets/Resources/sprites/IconSheet_74.png
+- Assets/Resources/sprites/IconSheet_54.png
+- Assets/Resources/sprites/IconSheet_65.png
+- Assets/Resources/sprites/IconSheet_46.png
+- Assets/Scripts/TickerXP.asset
+- Assets/Resources/sprites/IconSheet_111.png
+- Assets/Resources/sprites/IconSheet_121.png
+- Assets/Resources/sprites/IconSheet_172.png
+- Assets/Resources/Loot Table 2.asset
+- Assets/Resources/sprites/IconSheet_11.png
+- Assets/Resources/sprites/IconSheet_24.png
+- Assets/Resources/sprites/IconSheet_157.png
+- Assets/Resources/sprites/IconSheet_101.png
+- Assets/Resources/sprites/IconSheet_47.png
+- Assets/Resources/Done/impendingdoom.asset
+- Assets/Resources/sprites/IconSheet_44.png
+- Assets/Resources/sprites/IconSheet_53.png
+- Assets/Resources/sprites/IconSheet_86.png
+- Assets/Resources/sprites/IconSheet_12.png
+- Assets/Resources/sprites/IconSheet_97.png
+- Assets/Resources/Done/impendingdeathbehaviour.asset
+- Assets/Resources/sprites/IconSheet_0.png
+- Assets/Resources/sprites/IconSheet_76.png
+- Assets/Resources/sprites/IconSheet_182.png
+- Assets/Resources/sprites/IconSheet_166.png
+- Assets/Resources/sprites/IconSheet_96.png
+- Assets/Resources/sprites/IconSheet_178.png
+- Assets/Resources/sprites/IconSheet_141.png
+- Assets/Resources/sprites/IconSheet_124.png
+- Assets/Resources/sprites/IconSheet_206.png
+- Assets/Resources/sprites/IconSheet_201.png
+- Assets/Resources/sprites/IconSheet_177.png
+- Assets/Resources/sprites/IconSheet_186.png
+- Assets/Resources/sprites/IconSheet_117.png
+- Assets/Resources/sprites/IconSheet_100.png
+- Assets/Resources/sprites/IconSheet_87.png
+- Assets/Resources/sprites/IconSheet_168.png
+- Assets/Resources/sprites/IconSheet_68.png
+- Assets/Resources/sprites/IconSheet_4.png
+- Assets/Resources/sprites/IconSheet_192.png
+Dependencies: []
