@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 217914730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1c1c256bb9ee9ed856fd7d2d6ee18d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 53d5d5eb886d5f295abf0f6a4d1349a1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 544464033, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: 1058728248, guid: 421ae4f72b4255642983b93487241616, type: 3}
+- Class: 114
+  Script: {fileID: 1826273678, guid: 421ae4f72b4255642983b93487241616, type: 3}
+- Class: 114
+  Script: {fileID: 511953537, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1269266212, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -686398770, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -625819341, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -2084902116, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: 1913379070, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -976611119, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -214231816, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: 302093662, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1015385941, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: 1546088854, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1971764023, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1954460148, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1306655069, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1142304182, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: 1256608078, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+- Class: 114
+  Script: {fileID: -1226414609, guid: 421ae4f72b4255642983b93487241616, type: 3}
+- Class: 114
+  Script: {fileID: -1638229193, guid: 421ae4f72b4255642983b93487241616, type: 3}
+- Class: 114
+  Script: {fileID: 1638799208, guid: 421ae4f72b4255642983b93487241616, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/com.overmine.editor/Editor/Resources/Templates/Familiar/Gain XP.asset
+- Assets/com.overmine.editor/Editor/Resources/Templates/Familiar/Despawns.asset
+- Assets/com.overmine.editor/Editor/Resources/Templates/Familiar/Familiar Entity.prefab
+- Assets/com.overmine.editor/Editor/Resources/Templates/Familiar/Level 0.asset
+- Assets/com.overmine.editor/Editor/Resources/Templates/Familiar/Picked Up.asset
+- Assets/com.overmine.editor/Editor/Resources/Templates/Familiar/Familiar Skin.asset
+- Assets/com.overmine.editor/Editor/Resources/Templates/Familiar/Level 1.asset
+- Assets/com.overmine.editor/Editor/Resources/Templates/Familiar/Familiar.asset
+- Assets/com.overmine.editor/Editor/Resources/Templates/Familiar/Animation Data.asset
+- Assets/com.overmine.editor/Editor/Resources/Templates/Familiar/Level 2.asset
+- Assets/com.overmine.editor/Editor/Resources/References/Decorators/Potion Decorator.prefab
+Dependencies:
+- C:/Users/james/Documents/GitHub/TusTreasuresUnity - ReleaseVer/Output/tustreasures

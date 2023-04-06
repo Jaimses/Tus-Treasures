@@ -1,7 +1,7 @@
 {
-  "Id": "TusTreasure",
-  "Name": "TusTreasure",
-  "Description": "A content mod developed by Jaimses.",
+  "Id": "Tus-Treasures",
+  "Name": "Tus Treasures",
+  "Description": "A content mod for Undermine made by Jaimses.",
   "Version": "0.1.0",
   "EntryDLL": "Overmine.Example.dll",
   "Bundles": [

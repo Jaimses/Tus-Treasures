@@ -1,7 +1,11 @@
 ManifestFileVersion: 0
-CRC: 750827302
+CRC: 3812602668
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: tustreasures
       Dependencies: {}
+    Info_1:
+      Name: overmine.example
+      Dependencies:
+        Dependency_0: tustreasures
