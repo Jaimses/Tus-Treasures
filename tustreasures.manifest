@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3288383118
+CRC: 4148214220
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3de2414eed2c2b1718f6516692f341bc
+    Hash: a7a7b530ed551e902a7cd0e404dc4685
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0726090c44dd552db7e0bc2f3f1d13fe
+    Hash: 2cfb2e5163ce31ec703c8f850ed040cc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,24 +19,16 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 74
-  Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 511953537, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+  Script: {fileID: 544464033, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
 - Class: 114
   Script: {fileID: 1058728248, guid: 421ae4f72b4255642983b93487241616, type: 3}
 - Class: 114
-  Script: {fileID: 1438000191, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
-- Class: 114
-  Script: {fileID: 544464033, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
-- Class: 114
-  Script: {fileID: 2114942042, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
-- Class: 114
   Script: {fileID: 1826273678, guid: 421ae4f72b4255642983b93487241616, type: 3}
 - Class: 114
-  Script: {fileID: 166979116, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
+  Script: {fileID: 511953537, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
 - Class: 114
   Script: {fileID: -1269266212, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
 - Class: 114
@@ -44,11 +36,7 @@ ClassTypes:
 - Class: 114
   Script: {fileID: -625819341, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
 - Class: 114
-  Script: {fileID: -1400506680, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
-- Class: 114
   Script: {fileID: -2084902116, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
-- Class: 114
-  Script: {fileID: -552951886, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
 - Class: 114
   Script: {fileID: 1913379070, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
 - Class: 114
@@ -78,11 +66,7 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1256608078, guid: 1c8ec480ccbe12447bb0a78c5e04958b, type: 3}
 - Class: 114
-  Script: {fileID: -1708222392, guid: 421ae4f72b4255642983b93487241616, type: 3}
-- Class: 114
   Script: {fileID: -1226414609, guid: 421ae4f72b4255642983b93487241616, type: 3}
-- Class: 114
-  Script: {fileID: -1638229193, guid: 421ae4f72b4255642983b93487241616, type: 3}
 - Class: 114
   Script: {fileID: 568847093, guid: 421ae4f72b4255642983b93487241616, type: 3}
 - Class: 114
@@ -107,12 +91,11 @@ Assets:
 - Assets/Resources/Custom/Done/PilferedCoinStatus.prefab
 - Assets/Resources/Custom/sprites/IconSheet_9.png
 - Assets/Resources/Custom/sprites/IconSheet_209.png
-- Assets/Resources/Custom/WIP/FrostCorePickup.asset
+- Assets/Resources/Custom/Done/FrostCorePickup.asset
 - Assets/Resources/Custom/Done/ApothicPendant.png
 - Assets/Scripts/TickerL2.asset
 - Assets/Resources/Custom/sprites/IconSheet_94.png
 - Assets/Resources/Custom/sprites/IconSheet_190.png
-- Assets/Resources/Custom/WIP/GlennHexStatus.prefab
 - Assets/Resources/Custom/sprites/IconSheet_148.png
 - Assets/Resources/Custom/sprites/IconSheet_207.png
 - Assets/Resources/Custom/sprites/IconSheet_84.png
@@ -121,15 +104,13 @@ Assets:
 - Assets/Resources/Custom/sprites/IconSheet_105.png
 - Assets/Resources/Custom/sprites/IconSheet_58.png
 - Assets/Resources/Custom/Done/NightmareVoracious.png
-- Assets/Resources/Custom/WIP/FrostCoreEffect.asset
+- Assets/Resources/Custom/Done/FrostCoreEffect.asset
 - Assets/Resources/Custom/sprites/IconSheet_81.png
 - Assets/Resources/Custom/sprites/IconSheet_125.png
-- Assets/Resources/Custom/Surprise Tools/BlessedBlendEffect.asset
 - Assets/Resources/Custom/sprites/IconSheet_162.png
 - Assets/Resources/Custom/sprites/IconSheet_30.png
-- Assets/Resources/Custom/WIP/GlennHexEffect.asset
 - Assets/Resources/Custom/sprites/IconSheet_110.png
-- Assets/Resources/Custom/WIP/LastWishEffect.asset
+- Assets/Resources/Custom/Done/LastWishEffect.asset
 - Assets/Resources/Custom/sprites/IconSheet_5.png
 - Assets/Scripts/TickerL1.asset
 - Assets/Resources/Custom/sprites/IconSheet_31.png
@@ -147,22 +128,21 @@ Assets:
 - Assets/Resources/Custom/sprites/IconSheet_198.png
 - Assets/Resources/Custom/sprites/IconSheet_1.png
 - Assets/Resources/Custom/sprites/IconSheet_32.png
-- Assets/Resources/Custom/WIP/GlennHexPickup.asset
+- Assets/Resources/Custom/sprites/BloodChalice.png
 - Assets/Resources/Custom/sprites/IconSheet_75.png
 - Assets/Resources/Custom/sprites/IconSheet_113.png
 - Assets/Resources/Custom/sprites/IconSheet_63.png
 - Assets/Resources/Custom/sprites/IconSheet_43.png
-- Assets/Resources/Loot Table 5.asset
 - Assets/Resources/Custom/sprites/IconSheet_29.png
 - Assets/Resources/Custom/sprites/IconSheet_10.png
 - Assets/Resources/Custom/sprites/IconSheet_80.png
+- Assets/Resources/Custom/Done/Chalice Item.asset
 - Assets/Resources/Custom/sprites/IconSheet_152.png
 - Assets/Resources/Custom/sprites/Potion04a.png
 - Assets/Resources/Custom/sprites/IconSheet_195.png
 - Assets/Resources/Custom/sprites/IconSheet_200.png
-- Assets/Resources/Custom/Surprise Tools/FamiliarStuff/Familiar Skin.asset
 - Assets/Resources/Custom/sprites/IconSheet_181.png
-- Assets/Resources/Custom/WIP/GlennSpeed.asset
+- Assets/Resources/Custom/Done/AcceleratedAtrophy.asset
 - Assets/Resources/Custom/sprites/IconSheet_41.png
 - Assets/Resources/Custom/sprites/IconSheet_64.png
 - Assets/Resources/Custom/sprites/IconSheet_13.png
@@ -173,37 +153,32 @@ Assets:
 - Assets/Resources/Custom/sprites/IconSheet_62.png
 - Assets/Resources/Custom/sprites/IconSheet_156.png
 - Assets/Resources/Custom/sprites/IconSheet_52.png
-- Assets/Resources/Custom/Surprise Tools/FamiliarStuff/Despawns.asset
 - Assets/Resources/Custom/sprites/IconSheet_72.png
 - Assets/Resources/Custom/sprites/IconSheet_56.png
 - Assets/Resources/Custom/Done/voracious.asset
 - Assets/Resources/Custom/sprites/IconSheet_40.png
 - Assets/Resources/Custom/sprites/IconSheet_67.png
 - Assets/Resources/Custom/Done/impendingdoompickup.asset
-- Assets/Resources/Custom/Surprise Tools/UnhandedStatus.prefab
 - Assets/Resources/Custom/sprites/IconSheet_102.png
 - Assets/Resources/Custom/sprites/IconSheet_142.png
 - Assets/Resources/Custom/sprites/IconSheet_184.png
 - Assets/Resources/Custom/sprites/IconSheet_140.png
-- Assets/Resources/Custom/WIP/LastWishPickup.asset
+- Assets/Resources/Custom/Done/LastWishPickup.asset
 - Assets/Resources/Custom/sprites/IconSheet_123.png
 - Assets/Resources/Custom/sprites/IconSheet_161.png
 - Assets/Resources/Custom/sprites/StarMarkedBuckler.png
 - Assets/Resources/Custom/sprites/IconSheet_137.png
 - Assets/Resources/Custom/sprites/IconSheet_197.png
-- Assets/Resources/Custom/WIP/GlennHex.png
 - Assets/Resources/Custom/sprites/IconSheet_37.png
 - Assets/Resources/Custom/sprites/IconSheet_151.png
-- Assets/Resources/Custom/WIP/LastWishItem.asset
-- Assets/Resources/Custom/Surprise Tools/BlessedBlendEquipment.prefab
+- Assets/Resources/Custom/Done/LastWishItem.asset
 - Assets/Scripts/TickerPickUp.asset
-- Assets/Resources/Custom/WIP/GlennSpeedStatus.prefab
+- Assets/Resources/Custom/Done/AcceleratedAtrophyStatus.prefab
 - Assets/Resources/Custom/sprites/IconSheet_2.png
 - Assets/Resources/Custom/Done/NightmareIndestructable.png
 - Assets/Resources/Custom/sprites/IconSheet_79.png
 - Assets/Resources/Custom/sprites/IconSheet_158.png
 - Assets/Scripts/TickerStatus.prefab
-- Assets/Resources/Custom/Surprise Tools/FamiliarStuff/Familiar.asset
 - Assets/Resources/Custom/sprites/IconSheet_55.png
 - Assets/Resources/Custom/sprites/IconSheet_188.png
 - Assets/Resources/Custom/sprites/IconSheet_99.png
@@ -219,7 +194,7 @@ Assets:
 - Assets/Resources/Custom/sprites/IconSheet_136.png
 - Assets/Resources/Custom/sprites/IconSheet_167.png
 - Assets/Resources/Custom/sprites/IconSheet_191.png
-- Assets/Resources/Custom/WIP/FrostCoreStatusEffect.prefab
+- Assets/Resources/Custom/Done/FrostCoreStatusEffect.prefab
 - Assets/Resources/Custom/sprites/IconSheet_133.png
 - Assets/Resources/Custom/sprites/IconSheet_50.png
 - Assets/Scripts/TickerDespawn.asset
@@ -229,6 +204,7 @@ Assets:
 - Assets/Resources/Custom/sprites/IconSheet_134.png
 - Assets/Resources/Custom/sprites/IconSheet_165.png
 - Assets/Resources/Custom/sprites/IconSheet_85.png
+- Assets/Resources/Custom/Done/ChaliceStatus.prefab
 - Assets/Resources/Custom/sprites/IconSheet_145.png
 - Assets/Resources/Custom/sprites/IconSheet_27.png
 - Assets/Resources/Custom/sprites/IconSheet_7.png
@@ -242,8 +218,6 @@ Assets:
 - Assets/Resources/Custom/sprites/IconSheet_189.png
 - Assets/Resources/Custom/sprites/IconSheet_153.png
 - Assets/Resources/Custom/sprites/IconSheet_193.png
-- Assets/Resources/Custom/Surprise Tools/FamiliarStuff/Familiar Entity.prefab
-- Assets/Resources/Custom/Surprise Tools/FamiliarStuff/Animation Data.asset
 - Assets/Resources/Custom/sprites/IconSheet_60.png
 - Assets/Resources/Custom/sprites/IconSheet_89.png
 - Assets/Resources/Custom/sprites/IconSheet_185.png
@@ -251,12 +225,10 @@ Assets:
 - Assets/Resources/Custom/sprites/IconSheet_120.png
 - Assets/Resources/Custom/sprites/IconSheet_139.png
 - Assets/Resources/Custom/sprites/IconSheet_127.png
-- Assets/Resources/Custom/Surprise Tools/BlessedBlendPickup.asset
 - Assets/Resources/Custom/sprites/IconSheet_131.png
 - Assets/Resources/Custom/sprites/IconSheet_107.png
 - Assets/Resources/Custom/sprites/IconSheet_23.png
 - Assets/Resources/Custom/sprites/IconSheet_17.png
-- Assets/Resources/Custom/Surprise Tools/FamiliarStuff/Level 1.asset
 - Assets/Resources/Custom/sprites/IconSheet_174.png
 - Assets/Resources/Custom/sprites/Eye01.png
 - Assets/Resources/Custom/sprites/IconSheet_95.png
@@ -266,9 +238,10 @@ Assets:
 - Assets/Resources/Custom/sprites/IconSheet_83.png
 - Assets/Resources/Custom/sprites/IconSheet_116.png
 - Assets/Resources/Custom/sprites/IconSheet_176.png
-- Assets/Resources/Custom/WIP/LastWishStatus.prefab
+- Assets/Resources/Custom/Done/LastWishStatus.prefab
 - Assets/Resources/Custom/sprites/IconSheet_77.png
 - Assets/Resources/Custom/sprites/Bomb07.png
+- Assets/Resources/Custom/Done/ChaliceEffect.asset
 - Assets/Resources/Custom/sprites/IconSheet_51.png
 - Assets/Resources/Custom/sprites/IconSheet_18.png
 - Assets/Resources/Custom/sprites/IconSheet_199.png
@@ -287,23 +260,18 @@ Assets:
 - Assets/Resources/Custom/sprites/IconSheet_175.png
 - Assets/Resources/Custom/sprites/Luck.png
 - Assets/Resources/Custom/sprites/IconSheet_132.png
-- Assets/Resources/Custom/Surprise Tools/UnhandedBehaviour.asset
 - Assets/Resources/Custom/sprites/IconSheet_26.png
-- Assets/Resources/Custom/Surprise Tools/FamiliarStuff/Level 2.asset
-- Assets/Resources/Custom/Surprise Tools/BlessedBlendDrink.prefab
 - Assets/Resources/Custom/Done/toxinbehaviour.asset
 - Assets/Resources/Custom/sprites/IconSheet_103.png
 - Assets/Resources/Custom/sprites/IconSheet_66.png
 - Assets/Resources/Custom/sprites/IconSheet_122.png
 - Assets/Resources/Custom/sprites/Hourglass01.png
 - Assets/Resources/Custom/sprites/IconSheet_208.png
-- Assets/Resources/Custom/Surprise Tools/FamiliarStuff/Gain XP.asset
 - Assets/Resources/Custom/sprites/IconSheet_147.png
 - Assets/Resources/Custom/Done/voraciousbehaviour.asset
 - Assets/Resources/Custom/sprites/IconSheet_112.png
 - Assets/Resources/Custom/sprites/IconSheet_173.png
 - Assets/Resources/Custom/sprites/IconSheet_82.png
-- Assets/Resources/Custom/Surprise Tools/FamiliarStuff/Picked Up.asset
 - Assets/Resources/Custom/sprites/IconSheet_45.png
 - Assets/Resources/Custom/sprites/IconSheet_92.png
 - Assets/Resources/Custom/Done/apothpickup.asset
@@ -324,36 +292,32 @@ Assets:
 - Assets/Resources/Custom/sprites/IconSheet_19.png
 - Assets/Resources/Custom/sprites/IconSheet_106.png
 - Assets/Resources/Custom/Done/toxin.asset
+- Assets/Resources/Custom/sprites/cursedchalice.png
 - Assets/Resources/Custom/sprites/IconSheet_42.png
-- Assets/Resources/Custom/WIP/FrostCoreItem.asset
+- Assets/Resources/Custom/Done/FrostCoreItem.asset
 - Assets/Resources/Custom/sprites/IconSheet_16.png
 - Assets/Resources/Custom/sprites/IconSheet_115.png
 - Assets/Resources/Custom/sprites/IconSheet_61.png
 - Assets/Resources/Custom/sprites/Potion8b.png
 - Assets/Resources/Custom/Done/voraciouspickup.asset
-- Assets/Resources/Loot Table 4.asset
 - Assets/Resources/Custom/Done/toxin.prefab
 - Assets/Resources/Custom/sprites/IconSheet_171.png
 - Assets/Resources/Custom/sprites/IconSheet_70.png
 - Assets/Resources/Custom/sprites/IconSheet_36.png
 - Assets/Resources/Custom/sprites/IconSheet_98.png
 - Assets/Scripts/Ticker.asset
-- Assets/Resources/Custom/Surprise Tools/UnhandedPickup.asset
 - Assets/Resources/Custom/sprites/IconSheet_126.png
-- Assets/Resources/Custom/Surprise Tools/FamiliarStuff/Level 0.asset
 - Assets/Resources/Custom/sprites/IconSheet_160.png
+- Assets/Resources/Custom/Done/ChalicePickup.asset
 - Assets/Resources/Custom/sprites/IconSheet_202.png
 - Assets/Resources/Custom/sprites/IconSheet_49.png
 - Assets/Resources/Custom/sprites/IconSheet_130.png
 - Assets/Resources/Custom/sprites/IconSheet_196.png
-- Assets/com.overmine.editor/Editor/Resources/References/Decorators/Potion Decorator.prefab
 - Assets/Resources/Custom/sprites/IconSheet_14.png
 - Assets/Resources/Custom/sprites/IconSheet_164.png
-- Assets/New Animation.anim
-- Assets/Resources/Custom/Surprise Tools/BlessedBlendItem.asset
 - Assets/Resources/Custom/sprites/IconSheet_143.png
 - Assets/Scripts/Bomb06.png
-- Assets/Resources/Custom/WIP/GlennSpeedEffect.asset
+- Assets/Resources/Custom/Done/AcceleratedAtrophyEffect.asset
 - Assets/Resources/Custom/sprites/IconSheet_154.png
 - Assets/Resources/Custom/sprites/IconSheet_91.png
 - Assets/Resources/Custom/Done/apothstatus.prefab
@@ -369,7 +333,7 @@ Assets:
 - Assets/Resources/Custom/sprites/IconSheet_121.png
 - Assets/Resources/Custom/sprites/IconSheet_172.png
 - Assets/Resources/Custom/Done/PilferedCoinItem.asset
-- Assets/Resources/Custom/WIP/GlennSpeedPickup.asset
+- Assets/Resources/Custom/Done/AcceleratedAtrophyPickup.asset
 - Assets/Resources/Loot Table 2.asset
 - Assets/Resources/Custom/sprites/IconSheet_11.png
 - Assets/Resources/Custom/sprites/IconSheet_24.png
@@ -390,7 +354,6 @@ Assets:
 - Assets/Resources/Custom/sprites/IconSheet_166.png
 - Assets/Resources/Custom/sprites/IconSheet_96.png
 - Assets/Resources/Custom/sprites/IconSheet_178.png
-- Assets/Resources/Custom/Surprise Tools/UnhandedItem.asset
 - Assets/Resources/Custom/sprites/IconSheet_141.png
 - Assets/Resources/Custom/sprites/IconSheet_124.png
 - Assets/Resources/Custom/sprites/IconSheet_206.png
@@ -401,7 +364,6 @@ Assets:
 - Assets/Resources/Custom/sprites/IconSheet_100.png
 - Assets/Resources/Custom/sprites/IconSheet_87.png
 - Assets/Resources/Custom/sprites/IconSheet_168.png
-- Assets/Resources/Custom/WIP/GlennHex.asset
 - Assets/Resources/Custom/sprites/IconSheet_68.png
 - Assets/Resources/Custom/sprites/IconSheet_4.png
 - Assets/Resources/Custom/sprites/IconSheet_192.png
